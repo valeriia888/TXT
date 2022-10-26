@@ -1,9 +1,8 @@
 Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC
- What is a client-server architecture
- HTTP Methods of requests to the server
- Structures of HTTP requests and responses
+What is a client-server architecture
+HTTP Methods of requests to the server
+Structures of HTTP requests and responses
 What is JSON, XML. Their structure
-API testing via Postman (JS, API autotests)
-Removing and reading logs from an external server
+Postman
 Sniffing http web traffic via Charles and Fiddler
 Dev Tools of web browsers (Google Chrome, FireFox)
